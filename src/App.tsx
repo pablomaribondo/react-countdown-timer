@@ -7,7 +7,7 @@ import './App.scss';
 export const App: FC = () => {
   return (
     <div className="wrapper">
-      <Countdown date="August 31 2021 10:00 GMT+2" />
+      <Countdown date="August 31 2022 10:00 GMT+2" />
     </div>
   );
 };
